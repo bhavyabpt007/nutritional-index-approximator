@@ -1,2 +1,2 @@
 # nutritional-index-approximator
-A model that scores food items how healthy they are too consume
+A model that scores food items on how healthy they are too consume
